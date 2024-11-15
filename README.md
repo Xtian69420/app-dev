@@ -1,4 +1,4 @@
-#33 Academic Purposes Only
+# Academic Purposes Only
 ### Application Developement
 # 🎥 **My Top-Rated Movies & Series**
 

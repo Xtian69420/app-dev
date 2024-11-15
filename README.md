@@ -2,7 +2,7 @@
 ### Application Developement
 # 🎥 **Top-Rated Movies & Series By Me**
 
-Explore some of the best-rated movies and series across genres. 🎬✨
+🎬✨
 
 ---
 

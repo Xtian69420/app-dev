@@ -1,6 +1,6 @@
 #33 Academic Purposes Only
 ### Application Developement
-# 🎥 **Top-Rated Movies & Series By Me**
+# 🎥 **My Top-Rated Movies & Series**
 
 🎬✨
 
